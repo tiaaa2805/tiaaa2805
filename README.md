@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Tijana 👋
 
 ### 🎓 Education
 * **3rd Year Student** at the **Faculty of Automation and Computing**, **Politehnica University of Timișoara (UPT)**.
@@ -26,4 +26,4 @@
 ---
 
 ### 📫 How to reach me:
-* **Email:** your.email@student.upt.ro
+* **Email:** tijanapopa@yahoo.com
