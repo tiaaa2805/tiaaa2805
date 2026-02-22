@@ -21,15 +21,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiaaa28&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaaa2805&layout=compact&theme=radical"/>
-</p>
 
----
----
 
 ### 📫 How to reach me:
 * **Email:** tijanapopa@yahoo.com
 * **Email:** tijana.popa@student.upt.ro
+* **Discord:** tijana_5275
