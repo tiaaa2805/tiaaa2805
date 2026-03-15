@@ -21,8 +21,12 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
+I'm currently focusing on:
 
-
+* 🐍 **Python:** Building various projects.
+* 🍃 **Spring Boot:** Getting familiar with the Spring ecosystem.
+* 🇫🇷 **French:** Actively learning and improving my French skills.
+---
 ### 📫 How to reach me:
 * **Email:** tijanapopa@yahoo.com
 * **Email:** tijana.popa@student.upt.ro
