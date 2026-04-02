@@ -23,8 +23,8 @@
 ---
 I'm currently focusing on:
 
+* ☕ **Java:** Building various projects and getting familiar with different design patterns.
 * 🐍 **Python:** Building various projects.
-* 🍃 **Spring Boot:** Getting familiar with the Spring ecosystem.
 * 🇫🇷 **French:** Actively learning and improving my French skills.
 ---
 ### 📫 How to reach me:
